@@ -1,0 +1,28 @@
+//miscoft visual studio-Installation
+
+
+
+<html>
+  <head>
+    <title>Session</title>
+  </head>
+  <!--make sure to write a script tag here because we need to executeb it first hand-->
+  <style>
+    .heading {
+      color: blue;
+      font-family: monospace;
+    }
+  </style>
+
+  <!--make sure to write a script tag here because we need to executeb it first hand-->
+
+  <body>
+    Hello world - Hello world has been changed
+    <h1 class="heading">This is H1</h1>
+    <h1 class="heading">Signup</h1>
+    <h1 class="heading1">Signup</h1>
+    <button id="btn">Buy 2 shirts</button>
+    <script src="Script.js"></script>
+    <!--make sure to write a script tag here because we need to executeb it first hand-->
+  </body>
+</html>

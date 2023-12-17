@@ -1,5 +1,10 @@
-//miscoft visual studio-Installation
-
+//miscoft visual studio-Installation- https://code.visualstudio.com/download
+//extention - live server
+//install git- https://git-scm.com/downloads
+//git init //initiliazation og Git repo
+//git add or git add file name.extenstion // adding code or file to thr staging area
+//git commit -m "message"// adding code or files to the localrepo
+//git restore --staged Script.js// remove the changes which were added in the staging area
 
 
 <html>

@@ -5,6 +5,7 @@
 //git add or git add file name.extenstion // adding code or file to thr staging area
 //git commit -m "message"// adding code or files to the localrepo
 //git restore --staged Script.js// remove the changes which were added in the staging area
+//git pull origin master --allow-unrelated-histories
 
 
 <html>
